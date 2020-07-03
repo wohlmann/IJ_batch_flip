@@ -26,3 +26,4 @@ macro "batch flip" {
 		print(""+N+" images flipped and saved");
 		showMessage("Report", ""+N+" images flipped and saved");
 }
+//JW_03.07.20
